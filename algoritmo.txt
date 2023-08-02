@@ -1,0 +1,11 @@
+Inicio do algoritmo >
+
+mouse na página>usuario clica no link ? 
+sim > abrir pagina > fim
+não > não fazer nada > fim 
+
+Algoritmo 2 
+
+	Leite no copo > verificar se tem nescau 
+	tem > coloca no copo > fim
+	não tem > guarda o leite na geladeira > fim
